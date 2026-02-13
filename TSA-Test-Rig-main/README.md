@@ -13,6 +13,8 @@ Twisted String Actuator Test Rig (ModLab)
 **Plan:** Once encoder-based cycle logic is verified, IR sensors will be removed and cycle/direction will be driven by encoder angle only.
 
 ---
+## Onshape Files
+https://cad.onshape.com/documents/71c3879f7e0b9d79bb76d53f/w/3467ad9f87a1c5e1faffa6f6/e/e31486eae4ef6945b7a7092c?renderMode=0&uiState=698f47f82271c575ed94ab59
 
 ## Overview  
 This rig is designed to run life-cycle tests on twisted string actuators (TSAs) using Spiderwire Dyneema line (0.12 mm). The setup drives a 6 V coreless DC motor through a custom MOSFET H-bridge, cycles the string between two IR sensor endpoints, and logs current, voltage, and cycle count for wear testing.  
